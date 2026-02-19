@@ -1,0 +1,3 @@
+COMP 2156 DevOps course introduces students to modern DevOps practices and tools used in the software industry. 
+The course focuses on version control with Git, continuous integration, and automation using GitHub. 
+It helps students understand collaboration, branching strategies, and real-world DevOps workflows.
