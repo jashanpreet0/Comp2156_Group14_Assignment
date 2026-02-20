@@ -1,0 +1,2 @@
+DevOps enhances the Software Development Life Cycle by promoting automation and continuous improvement.
+It ensures faster delivery, better communication, and higher software quality throughout development stages.
