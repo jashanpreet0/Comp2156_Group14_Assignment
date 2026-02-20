@@ -1,0 +1,17 @@
+name: COMP2156 CI
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Display Message
+        run: echo "CI is working successfully for COMP2156 Assignment!"
