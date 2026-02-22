@@ -1,3 +1,3 @@
 COMP 2156 DevOps for System Administration introduces students to DevOps principles and tools.
 The course covers Git, CI/CD pipelines, automation, and system administration concepts.
-It helps students understand modern software development and deployment practices.
+It helps students understand modern software development and deployment practices.George Brown College offers libraries, labs, and collaborative learning spaces.George Brown College offers libraries, labs, and collaborative learning spaces.
