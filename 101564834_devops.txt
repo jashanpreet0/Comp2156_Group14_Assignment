@@ -1,2 +1,4 @@
 COMP 2156 DevOps teaches students how to manage code, automate processes, and improve system reliability.
 The course highlights collaboration between development and operations teams using modern tools.
+DevOps encourages collaboration between developers and operations teams.
+It improves software delivery speed and reliability.
