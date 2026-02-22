@@ -1,0 +1,2 @@
+COMP2156 is everything about the newest Devops instruments and techniques. We get to know the usage of Git, GitHub, and other automation tools. Devops is the uniting factor between developers and ops people. We are learning version control, tricks of branching, continuous integration, and working together using GitHub in this class. There is much emphasis on teamwork, hence we are fine tuned in areas like commit habits and workflow maintenance. We also prepare to enter into actual DevOps in IT and cloud.
+
