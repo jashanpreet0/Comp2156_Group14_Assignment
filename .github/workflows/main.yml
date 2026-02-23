@@ -1,1 +1,18 @@
+name: CI
 
+on:
+  push:
+    branches:
+      - main
+      - 101564834-amanx21
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test
+        run: echo "CI working successfully"
