@@ -8,6 +8,7 @@ on:
       - 101562507-Jashanpreet
       - 101562530-Nandni
       - 101575174-MimansaSharma
+      - 101570428-Ankit
   pull_request:
     branches:
       - main
