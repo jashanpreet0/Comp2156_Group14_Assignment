@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - 101564834-amanx21
+      - 101562507-Jashanpreet
   pull_request:
     branches:
       - main
