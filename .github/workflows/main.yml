@@ -7,6 +7,7 @@ on:
       - 101564834-amanx21
       - 101562507-Jashanpreet
       - 101562530-Nandni
+      - 101575174-MimansaSharma
   pull_request:
     branches:
       - main
