@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-George Brown College was established in 1967 , located in Toronto near Dupont, Ontario.
+George Brown College was established in 1967 , located in Toronto, Ontario.
 It offers diploma, certificate, and degree programs in many fields.
 The college focuses on practical learning and career-based education.
-=======
-
-Introduction
-
-George Brown College is a well-known public college in Toronto, Canada.
-It offers diploma, certificate, and degree programs.
->>>>>>> 19c1f9cf6bd9f4d40881fe67153a442fa7db758f
+Student Life
+Students at George Brown College participate in events, clubs, and leadership programs.
+The college provides a diverse and inclusive learning environment.
