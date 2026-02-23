@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - 101562507-Jashanpreet
+      - 101564834-amanx21
   pull_request:
     branches:
       - main
